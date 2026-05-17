@@ -54,6 +54,8 @@ Obsidian'da `demo/` klasörünü vault olarak açarsan `[[wikilink]]`'ler ve gra
 
 Pattern'i çalıştırırken somut olarak ne öğrenildiğine dair notlar: [`demo/LEARNINGS.md`](./demo/LEARNINGS.md).
 
+Retrieval'ın nasıl çalıştığı, klasik RAG'den farkı ve maliyet karşılaştırması: [`demo/HOW-IT-WORKS.md`](./demo/HOW-IT-WORKS.md).
+
 ## Referans
 
 - Pattern açıklaması: [`llm-wiki.md`](./llm-wiki.md)
