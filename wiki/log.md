@@ -15,6 +15,12 @@ Güncellenen sayfalar: [[Demleme Yöntemi]] (5 adımlı reçete eklendi), [[Cezv
 Okunan sayfalar: [[Köpük]], [[Demleme Yöntemi]], [[Cezve]]
 Filed: [[Makbuliyet Kriterleri]] (synthesis)
 
+## [2026-05-17] ingest | Türk Kahvesi: Kültür, Misafirperverlik ve Sosyal Hayat
+Kaynak: `raw/03-kultur-ve-misafirperverlik.md`
+Yeni sayfalar: [[Misafirperverlik]], [[Kız İsteme]], [[Lokum]], [[source: 03-kultur-ve-misafirperverlik]]
+Güncellenen sayfalar: [[Kahvehane]] (IV. Murad yasakları + kamusal alan rolü), [[Köpük]] ("neden makbul" sebebi eklendi — lint boşluğu kapandı), [[Fal]] (sosyal işlev eklendi)
+İndex güncellendi.
+
 ## [2026-05-17] lint
 Bulgular:
 - [[Makbuliyet Kriterleri]] orphan: sadece index.md'den link var. Öneri: [[Köpük]] ve [[Demleme Yöntemi]] sayfalarından geri-link ver.
